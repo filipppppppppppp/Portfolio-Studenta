@@ -47,6 +47,10 @@ Natywna aplikacja mobilna stworzona w **React Native / Expo** pełniąca funkcj�
 <img width="1861" height="714" alt="image" src="https://github.com/user-attachments/assets/ff792b62-8813-437b-b800-ce53c666d649" />
 <img width="1860" height="395" alt="image" src="https://github.com/user-attachments/assets/d069996f-abb7-4285-a7a1-7c825fd8d19a" />
 
+**Widoki aplikacji w figmie**
+<img width="923" height="670" alt="image" src="https://github.com/user-attachments/assets/de75f375-e856-420f-b6c0-e3da6bb9daba" />
+<img width="954" height="674" alt="image" src="https://github.com/user-attachments/assets/937d8a25-d1dc-419a-ae84-84906f001714" />
+
 
 ## Opis projektu
 
