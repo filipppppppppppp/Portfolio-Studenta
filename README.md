@@ -5,19 +5,15 @@ Aplikacja portfolio - React Native / Expo
 
 Natywna aplikacja mobilna stworzona w **React Native / Expo** pełniąca funkcję interaktywnego portfolio studenckiego. Aplikacja prezentuje umiejętności, zrealizowane projekty oraz dane kontaktowe autora.
 
----<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c96116da-133b-4b4d-88ab-38693d98e307" />
-
-
 ## Widoki aplikacji
 
 ### Prototyp Figma — HabitMate (5 ekranów)
 
-> **Tutaj wstaw screenshot z Figmy pokazujący wszystkie 5 ekranów HabitMate obok siebie**
-> (ten widok który masz w Figmie z ekranami: Dashboard, Moje Nawyki, Dodaj Nawyk, Szczegóły, Profil)
- 
-![Prototyp HabitMate](Prototyp/habitmate-figma.png)
 
----
+ 
+
+---<img width="1106" height="471" alt="image" src="https://github.com/user-attachments/assets/9144bfde-7409-4108-96ef-f733b35236a7" />
+
 
 ### Zrzuty ekranu z działającej aplikacji
 
