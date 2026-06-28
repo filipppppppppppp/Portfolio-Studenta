@@ -12,45 +12,41 @@ Natywna aplikacja mobilna stworzona w **React Native / Expo** pełniąca funkcj�
 
  
 
----<img width="1106" height="471" alt="image" src="https://github.com/user-attachments/assets/9144bfde-7409-4108-96ef-f733b35236a7" />
+<img width="1106" height="471" alt="image" src="https://github.com/user-attachments/assets/9144bfde-7409-4108-96ef-f733b35236a7" />
 
 
 ### Zrzuty ekranu z działającej aplikacji
 
 **Ekran Profilu**
-> **Tutaj wstaw screenshot ekranu Profil z działającej aplikacji**
+<img width="1858" height="705" alt="image" src="https://github.com/user-attachments/assets/f8c59ccc-09cd-46b9-9b9d-2a94ab441c57" />
 
-![Profil](Prototyp/screen-profil.png)
 
----
+<img width="1856" height="725" alt="image" src="https://github.com/user-attachments/assets/972d06ef-4582-414b-9785-fb3ac5d56309" />
+
+
+
 
 **Lista Projektów**
-> **Tutaj wstaw screenshot ekranu Moje Projekty**
+<img width="1861" height="883" alt="image" src="https://github.com/user-attachments/assets/a05d36f7-e1c1-43c7-9da5-77b907774079" />
 
-![Projekty](Prototyp/screen-projekty.png)
-
----
 
 **Szczegóły projektu HabitMate**
-> **Tutaj wstaw screenshot ekranu Szczegółów z przyciskiem "Otwórz HabitMate"**
+<img width="1865" height="690" alt="image" src="https://github.com/user-attachments/assets/39e6f08c-ffb4-4eb8-a91c-d75a91d03338" />
+<img width="1858" height="365" alt="image" src="https://github.com/user-attachments/assets/6b60945d-2e7e-4345-a81e-96410a68f3bc" />
 
-![Szczegóły HabitMate](Prototyp/screen-habitmate.png)
 
----
+
+
 
 **Formularz dodawania projektu**
-> **Tutaj wstaw screenshot ekranu Nowy Projekt**
+<img width="1862" height="751" alt="image" src="https://github.com/user-attachments/assets/aa3fe4f1-af2b-40e7-a5cd-805129cc020d" />
+<img width="1862" height="552" alt="image" src="https://github.com/user-attachments/assets/29328975-8022-4392-8afa-cc201fd84c0f" />
 
-![Nowy Projekt](Prototyp/screen-nowy-projekt.png)
-
----
 
 **Ekran Kontakt**
-> **Tutaj wstaw screenshot ekranu Kontakt**
+<img width="1861" height="714" alt="image" src="https://github.com/user-attachments/assets/ff792b62-8813-437b-b800-ce53c666d649" />
+<img width="1860" height="395" alt="image" src="https://github.com/user-attachments/assets/d069996f-abb7-4285-a7a1-7c825fd8d19a" />
 
-![Kontakt](Prototyp/screen-kontakt.png)
-
----
 
 ## Opis projektu
 
